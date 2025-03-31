@@ -1,0 +1,12 @@
+{
+  "name": "premium-auto-clean",
+  "version": "1.0.0",
+  "description": "Site web Premium Auto Clean",
+  "main": "index.js",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  },
+  "scripts": {
+    "zip": "node create-zip.js"
+  }
+}
